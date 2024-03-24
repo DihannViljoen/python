@@ -1,0 +1,34 @@
+FUCNCTIONS 
+- a block of reusable code(place '()' after the functions name)
+For example:
+
+def new_game():
+
+
+def
+- to define a function
+- to reuse code 
+For example:
+
+
+
+print
+-use under a if, elif or and else statement to put stuff in the terminal 
+for example:
+ 
+
+if - if statement is a question( if this happnes... do this)
+- used for questions(is this == to that)
+for example:
+
+
+else
+- if the if statement is false it will move on to the else or elif statements if a else statement is true  it will stil run thru the rest of the code
+For example:
+
+
+elif 
+- simular to the else statement but it will stop after the 1st true statement
+PRINT - is used in the line under the if, elif or else statement for when you run the code it will apear in your teminal
+For example:
+
